@@ -3,7 +3,7 @@
   <groupId>com.xhesiballa</groupId>
   <artifactId>maven-release-test</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.3</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>maven-release-test</name>
   <url>http://maven.apache.org</url>
 
@@ -14,7 +14,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/xhesiballa/maven-release-plugin.git</developerConnection>
-    <tag>maven-release-test-0.0.3</tag>
+    <tag>HEAD</tag>
   </scm>
 
  <!--  <distributionManagement>
