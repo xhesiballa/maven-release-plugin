@@ -3,7 +3,7 @@
   <groupId>com.xhesiballa</groupId>
   <artifactId>maven-release-test</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.4-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>maven-release-test</name>
   <url>http://maven.apache.org</url>
 
