@@ -3,17 +3,18 @@
   <groupId>com.xhesiballa</groupId>
   <artifactId>maven-release-test</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <name>maven-release-test</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <release.repository.url>file:///Users/xhesiballa/workspace/releases</release.repository.url>
+    <maven.skip.deploy>true</maven.skip.deploy>
   </properties>
 
   <scm>
     <developerConnection>scm:git:https://github.com/xhesiballa/maven-release-plugin.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>maven-release-test-0.0.2</tag>
   </scm>
 
   <distributionManagement>
