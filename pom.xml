@@ -12,7 +12,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/xhesiballa/maven-release.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/xhesiballa/maven-release-plugin.git</developerConnection>
   </scm>
 
   <distributionManagement>
